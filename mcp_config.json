@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seobolt": {
+      "serverUrl": "https://seobolt.app/mcp",
+      "disabledTools": ["seo_get_checkout_url"]
+    }
+  }
+}

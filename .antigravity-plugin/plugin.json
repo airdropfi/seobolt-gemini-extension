@@ -1,0 +1,21 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "seobolt",
+  "displayName": "SEOBolt",
+  "version": "1.0.0",
+  "description": "Audit a site for Google and AI search: health score, prioritized fix plan with code snippets, keyword and Search Console tools on your own SEOBolt account.",
+  "logo": "assets/icon.png",
+  "suggestedPrompts": [
+    "Show my SEOBolt projects with their health scores",
+    "What should I fix first on my site? Show the code snippets from the fix plan",
+    "How hard is it to rank for \"seo audit tool\"?"
+  ],
+  "author": {
+    "name": "SEOBolt",
+    "url": "https://seobolt.app"
+  },
+  "homepage": "https://seobolt.app/mcp-seo",
+  "repository": "https://github.com/airdropfi/seobolt-gemini-extension",
+  "license": "MIT",
+  "keywords": ["seo", "seo audit", "technical seo", "core web vitals", "mcp", "seobolt"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "seobolt",
+  "version": "1.0.0",
+  "description": "Audit a site for Google and AI search from Gemini CLI: health score, prioritized fix plan with code snippets, keyword and Search Console tools on your own SEOBolt account.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "seobolt": {
+      "httpUrl": "https://seobolt.app/mcp",
+      "excludeTools": ["seo_get_checkout_url"]
+    }
+  }
+}
